@@ -36,19 +36,21 @@ Steps to Run the Project
 
 Clone the repository:
 
-git clone https://github.com/saifullahali2000/travelula-assignment.git
-cd travel-app
+    git clone https://github.com/saifullahali2000/travelula-assignment.git
+    cd travel-app
 
 Install dependencies:
 
-npm install
+    npm install
 
 Start the development server:
 
-npm start
+    npm start
 
 
-deploy link:  https://travelula-assignment-wheat.vercel.app/
+deploy link:  
+     
+     https://travelula-assignment-wheat.vercel.app/
 
 
 
